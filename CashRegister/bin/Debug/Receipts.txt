@@ -1,0 +1,10 @@
+
+Thanks for doing business with us 
+Here's Your Receipt: 
+
+
+Item   Quantity  Price   Total
+Bananas --- 5 --- $2.00 --- $10.00
+Pears --- 45 --- $4.00 --- $180.00
+
+-----------------------------------------
