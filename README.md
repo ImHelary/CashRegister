@@ -50,7 +50,7 @@
             Spell Suggestions
             
             FOLLOW CLOSELY TO CATCH THESE UPRADES!!!!
-            YOU CAN ALSO RECOMMEND FEATURES EITHER TO CHALLENGE ME TO REQUEST HELP.
+            YOU CAN ALSO RECOMMEND FEATURES EITHER TO CHALLENGE ME Or TO REQUEST HELP.
             
             #TheWorldIsYours
             
